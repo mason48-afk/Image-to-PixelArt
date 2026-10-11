@@ -1,8 +1,11 @@
 {
-  "origin": "",
+  "origin": "https://image-to-pixelart.pages.dev",
   "adsensePublisherId": "ca-pub-3665788047035678",
   "adsenseApproved": false,
   "consentConfigured": false,
-  "adSlots": {"middle": "", "bottom": ""},
+  "adSlots": {
+    "middle": "",
+    "bottom": ""
+  },
   "amazonTrackingId": "masonp48-20"
 }
